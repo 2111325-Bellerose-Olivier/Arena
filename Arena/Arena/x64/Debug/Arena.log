@@ -1,0 +1,4 @@
+﻿  prog3_tp1_deplacementCarte.cpp
+C:\Cegep\prog3\Arena\prog3_tp1_deplacementCarte.cpp(1,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'constantes.h' : No such file or directory
+  Arena.cpp
+  Génération de code en cours...
