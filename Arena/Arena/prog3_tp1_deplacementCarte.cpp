@@ -2,6 +2,7 @@
 #include "Point2D.h"
 #include "Niveau.h"
 #include <iostream>
+using namespace std;
 
 
 int main()

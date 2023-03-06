@@ -127,14 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\prog3_tp1_deplacementCarte.cpp" />
-    <ClCompile Include="Arena.cpp" />
+    <ClCompile Include="Creature.cpp" />
+    <ClCompile Include="Niveau.cpp" />
+    <ClCompile Include="Point2D.cpp" />
+    <ClCompile Include="prog3_tp1_deplacementCarte.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\Users\Oli\Downloads\constantes.h" />
-    <ClInclude Include="..\..\Creature.h" />
-    <ClInclude Include="..\..\Niveau.h" />
-    <ClInclude Include="..\..\Point2D.h" />
+    <ClInclude Include="Arena.h" />
+    <ClInclude Include="constantes.h" />
+    <ClInclude Include="Creature.h" />
+    <ClInclude Include="Niveau.h" />
+    <ClInclude Include="Point2D.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

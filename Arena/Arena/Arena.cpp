@@ -1,6 +1,4 @@
-// Arena.cpp : Ce fichier contient la fonction 'main'. L'exÃ©cution du programme commence et se termine Ã  cet endroit.
-//
-
+#include "Arena.h"
 #include <iostream>
 
 int main()
@@ -8,13 +6,13 @@ int main()
     std::cout << "Hello World!\n";
 }
 
-// ExÃ©cuter le programmeÂ : Ctrl+F5 ou menu DÃ©boguerÂ > ExÃ©cuter sans dÃ©bogage
-// DÃ©boguer le programmeÂ : F5 ou menu DÃ©boguerÂ > DÃ©marrer le dÃ©bogage
+// Exécuter le programme : Ctrl+F5 ou menu Déboguer > Exécuter sans débogage
+// Déboguer le programme : F5 ou menu Déboguer > Démarrer le débogage
 
-// Astuces pour bien dÃ©marrerÂ : 
-//   1. Utilisez la fenÃªtre Explorateur de solutions pour ajouter des fichiers et les gÃ©rer.
-//   2. Utilisez la fenÃªtre Team Explorer pour vous connecter au contrÃ´le de code source.
-//   3. Utilisez la fenÃªtre Sortie pour voir la sortie de la gÃ©nÃ©ration et d'autres messages.
-//   4. Utilisez la fenÃªtre Liste d'erreurs pour voir les erreurs.
-//   5. AccÃ©dez Ã  ProjetÂ > Ajouter un nouvel Ã©lÃ©ment pour crÃ©er des fichiers de code, ou Ã  ProjetÂ > Ajouter un Ã©lÃ©ment existant pour ajouter des fichiers de code existants au projet.
-//   6. Pour rouvrir ce projet plus tard, accÃ©dez Ã  FichierÂ > OuvrirÂ > Projet et sÃ©lectionnez le fichier .sln.
+// Astuces pour bien démarrer : 
+//   1. Utilisez la fenêtre Explorateur de solutions pour ajouter des fichiers et les gérer.
+//   2. Utilisez la fenêtre Team Explorer pour vous connecter au contrôle de code source.
+//   3. Utilisez la fenêtre Sortie pour voir la sortie de la génération et d'autres messages.
+//   4. Utilisez la fenêtre Liste d'erreurs pour voir les erreurs.
+//   5. Accédez à Projet > Ajouter un nouvel élément pour créer des fichiers de code, ou à Projet > Ajouter un élément existant pour ajouter des fichiers de code existants au projet.
+//   6. Pour rouvrir ce projet plus tard, accédez à Fichier > Ouvrir > Projet et sélectionnez le fichier .sln.
